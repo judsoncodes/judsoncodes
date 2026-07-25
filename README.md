@@ -1,152 +1,352 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=JUDSON&fontSize=60&fontColor=FFFFFF&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20AI-Integrated%20Web%20Apps&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a2e&height=280&section=header&text=JUDSON&fontSize=70&fontColor=FFFFFF&fontAlignY=35&desc=Building%20AI%20Products%20That%20People%20Actually%20Use&descAlignY=55&descSize=20&animation=fadeIn" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=800&color=6EE7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer;AI+%2B+ML+Developer;Open+Source+Contributor;450%2B+LeetCode+Problems+Solved" alt="Typing SVG" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=22&pause=1000&color=000000&center=true&vCenter=true&width=650&lines=Building+ELmed+%E2%80%94+AI-Powered+Medical+Education;Full-Stack+Developer+%7C+React+%2B+AI;Data+Science+%26+Machine+Learning;450%2B+Problems+Solved+on+LeetCode" alt="Typing SVG" />
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=6EE7FF)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=3B82F6)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/judsoncodes)
+[![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=googledrive&logoColor=7C3AED)](#)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00F5D4)](mailto:jjudsoncse2024@citchennai.net)
 
 </div>
 
 <br>
 
-## ABOUT ME
+<div align="center">
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+</div>
+
+## SYSTEM INITIALIZATION
+
+```bash
+> Initializing JUDSON_OS...
+> Loading AI modules................. [OK]
+> Connecting to GitHub............... [OK]
+> Loading projects................... [OK]
+> Loading experience................. [OK]
+> Deploying ELmed.................... [OK]
+
+STATUS: ONLINE
 ```
-class Judson:
-    def __init__(self):
-        self.role        = "Full-Stack Developer"
-        self.focus       = "AI-Integrated Web Applications"
-        self.education   = "B.E. Computer Science Engineering, Chennai Institute of Technology (2024–2028)"
-        self.building     = "ELmed — AI-Powered Medical Education Platform"
-        self.experience   = ["Data Science Intern @ Codec Technologies",
-                             "Full Stack Dev Intern @ Saiket Systems"]
-        self.leetcode     = "450+ problems solved"
-        self.location     = "Chennai, India"
+
+<br>
+
+## WHOAMI
+
+```powershell
+PS C:\Users\Judson> whoami
+
+Role              Full Stack Developer
+Specialization    AI-Powered Web Applications
+Location          Chennai, India
+Current Mission   Building ELmed — AI-Powered Medical Education Platform
+Status            ONLINE
+Available         YES
+Current Focus     Shipping production-ready AI software
 ```
+
+<br>
+
+<div align="center">
+
+◤━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◥
+
+</div>
+
+## LIVE DASHBOARD
+
+<div align="center">
+
+| Mission | Status | LeetCode | Experience |
+|:---:|:---:|:---:|:---:|
+| Building ELmed | 🟢 ONLINE | 450+ Solved | 2 Internships |
+
+**Currently Learning:** System Design · AI Agents · Distributed Systems
+
+</div>
 
 <br>
 
 ## TECH STACK
 
-<div align="center">
+<table>
+<tr>
+<td valign="top" width="20%">
 
 **Languages**
-![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![C++](https://img.shields.io/badge/-C++-000?style=flat-square&logo=cplusplus&logoColor=6EE7FF)
+![Java](https://img.shields.io/badge/-Java-000?style=flat-square&logo=openjdk&logoColor=6EE7FF)
+![Python](https://img.shields.io/badge/-Python-000?style=flat-square&logo=python&logoColor=6EE7FF)
+![JS](https://img.shields.io/badge/-JavaScript-000?style=flat-square&logo=javascript&logoColor=6EE7FF)
+![SQL](https://img.shields.io/badge/-SQL-000?style=flat-square&logo=postgresql&logoColor=6EE7FF)
+
+</td>
+<td valign="top" width="20%">
 
 **Frontend**
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=white)
 
-**Backend & Databases**
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=white)
+![React](https://img.shields.io/badge/-React-000?style=flat-square&logo=react&logoColor=3B82F6)
+![Vite](https://img.shields.io/badge/-Vite-000?style=flat-square&logo=vite&logoColor=3B82F6)
+![Tailwind](https://img.shields.io/badge/-Tailwind-000?style=flat-square&logo=tailwindcss&logoColor=3B82F6)
+![Framer](https://img.shields.io/badge/-Framer-000?style=flat-square&logo=framer&logoColor=3B82F6)
 
-**AI / ML**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_API-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+</td>
+<td valign="top" width="20%">
+
+**Backend**
+
+![Node](https://img.shields.io/badge/-Node.js-000?style=flat-square&logo=nodedotjs&logoColor=7C3AED)
+![Express](https://img.shields.io/badge/-Express-000?style=flat-square&logo=express&logoColor=7C3AED)
+![Postgres](https://img.shields.io/badge/-PostgreSQL-000?style=flat-square&logo=postgresql&logoColor=7C3AED)
+![Mongo](https://img.shields.io/badge/-MongoDB-000?style=flat-square&logo=mongodb&logoColor=7C3AED)
+![Supabase](https://img.shields.io/badge/-Supabase-000?style=flat-square&logo=supabase&logoColor=7C3AED)
+
+</td>
+<td valign="top" width="20%">
+
+**AI**
+
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?style=flat-square&logo=tensorflow&logoColor=00F5D4)
+![Scikit](https://img.shields.io/badge/-Scikit--Learn-000?style=flat-square&logo=scikitlearn&logoColor=00F5D4)
+![Claude](https://img.shields.io/badge/-Claude_API-000?style=flat-square&logo=anthropic&logoColor=00F5D4)
+![OpenAI](https://img.shields.io/badge/-OpenAI-000?style=flat-square&logo=openai&logoColor=00F5D4)
+
+</td>
+<td valign="top" width="20%">
 
 **Tools**
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-000000?style=for-the-badge&logo=railway&logoColor=white)
 
-</div>
+![Git](https://img.shields.io/badge/-Git-000?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-000?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-000?style=flat-square&logo=linux&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-000?style=flat-square&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat-square&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/-Railway-000?style=flat-square&logo=railway&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 <br>
-
-## GITHUB STATS
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=judsoncodes&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=judsoncodes&theme=dark&hide_border=true&background=0D0D0D&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=judsoncodes&layout=compact&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=FFFFFF"/>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 </div>
 
-<br>
+## FEATURED PROJECTS
 
-## FEATURED WORK
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<details open>
-<summary><b>ELmed — AI-Powered Medical Education Platform</b></summary>
-<br>
+### ELmed
+**AI-Powered Medical Education Platform**
 
-Production-ready medical education platform with secure authentication and payment
-integration, multiple AI and third-party API integrations for personalized learning,
-and immersive 3D visualizations.
+Production-ready platform with secure auth, payment integration,
+AI-driven personalized learning, and immersive 3D visualizations.
 
-`React.js` `Vite` `Supabase` `PostgreSQL` `Claude API` `Framer Motion` `React Three Fiber` `Razorpay`
+`React` `Vite` `Supabase` `PostgreSQL` `Claude API` `React Three Fiber` `Razorpay`
 
-</details>
+**Status:** 🟢 In Active Development
 
-<details>
-<summary><b>SecureSight — ML-Based Intrusion Detection System</b></summary>
-<br>
+[`View Repo →`](#)
 
-Machine learning system for identifying and classifying network attacks, with an
-interactive dashboard for real-time threat monitoring, alert visualization, and
-intrusion history.
+</td>
+<td width="50%" valign="top">
 
-`Python` `Flask` `React.js` `Vite` `Scikit-learn` `Pandas` `NumPy` `PostgreSQL` `Supabase`
+### SecureSight
+**ML-Based Intrusion Detection System**
 
-</details>
+Real-time threat monitoring dashboard with ML models classifying
+network attacks, alert visualization, and intrusion history.
 
-<details>
-<summary><b>Federated Learning for Privacy-Preserving Sentiment Analysis</b></summary>
-<br>
+`Python` `Flask` `React` `Scikit-learn` `PostgreSQL` `Supabase`
 
-Privacy-preserving federated learning framework for decentralized sentiment analysis —
-collaborative model training across clients without sharing raw user data.
+**Status:** 🟢 Complete
+
+[`View Repo →`](#)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Federated Learning — Privacy-Preserving Sentiment Analysis
+Decentralized sentiment analysis using FedAvg — collaborative model
+training without sharing raw user data.
 
 `Python` `TensorFlow` `FedAvg` `Flask` `NLTK`
 
-</details>
+**Status:** 🟢 Complete
+
+[`View Repo →`](#)
+
+</td>
+<td width="50%" valign="top">
+
+### Next Build
+Currently exploring AI agents and distributed systems for the
+next production project.
+
+**Status:** 🟡 Planning
+
+</td>
+</tr>
+</table>
 
 <br>
 
-## EXPERIENCE
+<div align="center">
 
-| Role | Company | Duration |
-|---|---|---|
-| Data Science Intern | Codec Technologies | May 2026 – Jun 2026 |
-| Full Stack Development Intern | Saiket Systems | Oct 2025 – Nov 2025 |
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+</div>
+
+## EXPERIENCE TIMELINE
+
+```
+2024 ─── Started B.E. Computer Science Engineering, Chennai Institute of Technology
+  │
+2025 ─── Full Stack Development Intern @ Saiket Systems
+  │       Built and enhanced full-stack features, integrated REST APIs
+  │
+2026 ─── Data Science Intern @ Codec Technologies
+  │       Preprocessing, EDA, regression/classification models
+  │
+NOW ──── Building ELmed — AI-Powered Medical Education Platform
+  │
+NEXT ─── Deepening AI Agents & Distributed Systems, shipping production AI software
+```
+
+<br>
+
+## SKILL LEVELS
+
+```
+Python        ████████████░  95%
+React         ███████████░░  90%
+AI / ML       ███████████░░  90%
+Backend       █████████░░░░  85%
+UI Design     █████████░░░░  85%
+```
+
+<br>
+
+<div align="center">
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+</div>
+
+## GITHUB ANALYTICS
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=judsoncodes&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=6EE7FF&icon_color=6EE7FF&text_color=FFFFFF"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=judsoncodes&theme=dark&hide_border=true&background=0D0D0D&stroke=6EE7FF&ring=7C3AED&fire=00F5D4&currStreakLabel=6EE7FF"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=judsoncodes&layout=compact&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=6EE7FF&text_color=FFFFFF"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=judsoncodes&theme=react-dark&bg_color=0D0D0D&color=6EE7FF&line=7C3AED&point=00F5D4&hide_border=true" width="100%"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=judsoncodes&theme=darkhub&no-frame=true&column=4&margin-w=8&margin-h=8" width="100%"/>
+
+</div>
+
+<br>
+
+## CONTRIBUTION SNAKE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/judsoncodes/judsoncodes/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+</div>
+
+## CURRENTLY LEARNING
+
+<div align="center">
+
+`AI Agents` · `LLMs` · `System Design` · `Docker` · `Kubernetes` · `Cloud` · `DevOps`
+
+</div>
 
 <br>
 
 ## CERTIFICATIONS
 
-- Palo Alto Networks — Cybersecurity Internship
-- React.js Certificate of Excellence — Scaler Topics
-- Google Cloud Essentials Certificate — Google Cloud Skills Boost
-- MongoDB for Developers — MongoDB University
+<table>
+<tr>
+<td width="50%">
+
+**Cybersecurity Internship**
+Palo Alto Networks
+
+</td>
+<td width="50%">
+
+**React.js Certificate of Excellence**
+Scaler Topics
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**Google Cloud Essentials**
+Google Cloud Skills Boost
+
+</td>
+<td width="50%">
+
+**MongoDB for Developers**
+MongoDB University
+
+</td>
+</tr>
+</table>
 
 <br>
+
+<div align="center">
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+</div>
 
 ## CONNECT
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/judsoncodes)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jjudsoncse2024@citchennai.net)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=3B82F6)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=6EE7FF)](#)
+[![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=googledrive&logoColor=7C3AED)](#)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00F5D4)](mailto:jjudsoncse2024@citchennai.net)
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=judsoncodes&style=for-the-badge&color=000000&label=PROFILE+VIEWS" />
 
 </div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:000000&height=180&section=footer&text=Let's%20Build%20Something%20Incredible&fontSize=28&fontColor=6EE7FF&fontAlignY=65" width="100%"/>
